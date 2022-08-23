@@ -3,11 +3,11 @@
 ---
 Es importante instalar e importar las siguientes librerias
 ---
-![image](https://user-images.githubusercontent.com/89808639/186237752-534d0468-572a-4a63-a770-d9e3662f1507.png) 
+![librerias](https://user-images.githubusercontent.com/89808639/186238237-e598c98e-e560-4468-84f6-21b97b51b5b2.jpg)
 ---
 Importante agregar el telefono en esta seccion con el codigo de pais para que pueda abrirse en al liga 
 ---
-![image](https://user-images.githubusercontent.com/89808639/186236368-29502485-aad3-4a36-bae9-acf6e5921e60.png)
+![telefono](https://user-images.githubusercontent.com/89808639/186238268-8e6a926d-247f-4af6-97d7-a585eee22acd.jpg)
 ---
 
 ![wh491wad6-whatsapp-icon-logo-whatsapp-icon-whatsapp-logo-call-logo-instagram-logo-new-removebg-preview](https://user-images.githubusercontent.com/89808639/186237280-36c5e3ac-30c6-4664-92bb-8b60b58a4695.png)
